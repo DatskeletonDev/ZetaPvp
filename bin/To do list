@@ -1,0 +1,36 @@
+TO-DO List:
+
+Currently Completed:
+Basic Game Countdown
+Custom Config Files with player data and methods to use
+Data manager with methods to manage currency, kills, deaths, kdr
+Basic outline for ranks
+Scoreboard- Only kills update
+Kill listener
+Joining the game syncs stats
+
+To-do for base game:
+DONE - Modify game-core to be fully functional -- Kills are added so have the game sense who reaches 50 first. Have the end game display best stats of the game,
+DONE - give a grace period and stop combat from being possible during waiting and starting periods
+DONE - Finish stats to update properly with scoreboard. Add command to cheat in any stat. 
+DONE - Add command to stop the game, stops pvp, all timers, and stops kit abilities from working
+DONE - Create ranks, create command to get ranks, create custom permissions somehow
+Add GUI for kits and cosmetics
+Create kits and abilities (See other txt file for specifics)
+Create Cosmetics (Also see other file)
+
+Misc to do at any time:
+Create proper death messages, including special ones for different ways of dying.
+Possibly create a blood effect when players are killed
+Download a map and set the spawn, incoporate into Config for configurable spawn point
+Create listeners to stop various things from happening, including exploding blocks, burning blocks, ect.
+Create moderator powers: /ban, /mute, /tempban, /tempmute, /disguiserank, /defaultrank, /kick, /warn, /tp, /invis, /spectator. Socialspy. 
+
+Far future:
+Create support for future versions
+Integrate with a Hub Plugin by using Bungee Cord to link
+Create a hub plugin with ranks, cosmetics, listeners
+Possibly: Create a daily challenge system/Missions? Npc in lobby to manage
+
+Learn how to use Mob Disguise API/Do it yourself and look at creating 'mob wars'. 
+Learn schmatics and rng generation to create labirynth

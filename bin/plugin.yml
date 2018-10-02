@@ -1,0 +1,16 @@
+name: KitPvp
+version: 1.0
+description: Allows players to pick kits then fight to the death
+main: laire.kitpvp.main.KitPvp
+
+commands:
+    stats:
+      description: See your stats or those of another player
+    game:
+      description: Allows the pausing or playing of the game
+    editstat:
+      description: Allows OPs to cheat in stats
+    rank:
+      description: Allows cheating in ranks
+    kit:
+      description: Allows for the choosing of kits
